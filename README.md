@@ -31,25 +31,28 @@
 
 ### OUR WEB PAGE SCREENSHOTS
 
-* OUR COVER-PAGE
-<p align="center">
-  <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/1.jpg" width="900" title="hover text">
-</p>
-</br>
+* OUR FRONT-PAGE
+  * We select any 5 Tasty Dishes, from the options below, which gets updated, each and every time we refresh the Site.
 <p align="center">
   <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/2.jpg" width="900" title="hover text">
 </p>
-
-* OUR RESULTS-PAGE
+</br>
+  * After Selecting, we submit, to get the responses.
 <p align="center">
   <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/3.jpg" width="900" title="hover text">
 </p>
 </br>
+
+* OUR RESULTS-PAGE
+   * We Get several Recommendations, for Interesting similar types of dishes, that any user can make in the future.
+<p align="center">
+  <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/5.jpg" width="900" title="hover text">
+</p>
+</br>
+  * We Get several categories, like the one down below, to recommend to our users.
 <p align="center">
   <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/4.jpg" width="900" title="hover text">
 </p>
 </br>
-<p align="center">
-  <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/5.jpg" width="900" title="hover text">
-</p>
+
 ## Reference
