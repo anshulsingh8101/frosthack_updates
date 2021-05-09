@@ -67,7 +67,7 @@
 For better Understanding, of our project, go to - URL
 
 
-### References
+### Our References
 
 * https://github.com/maciejkula/spotlight
 * https://github.com/garrrychan/recipe_recommender_system
