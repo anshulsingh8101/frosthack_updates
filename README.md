@@ -29,13 +29,27 @@
 * Machine Learning Algorithm
 * Recommendation System
 
-### outputs
+### OUR WEB PAGE SCREENSHOTS
 
-* Our cover-page
+* OUR COVER-PAGE
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/1.jpg" width="450" title="hover text">
+  <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/1.jpg" width="900" title="hover text">
+</p>
+</br>
+<p align="center">
+  <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/2.jpg" width="900" title="hover text">
 </p>
 
-
-
+* OUR RESULTS-PAGE
+<p align="center">
+  <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/3.jpg" width="900" title="hover text">
+</p>
+</br>
+<p align="center">
+  <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/4.jpg" width="900" title="hover text">
+</p>
+</br>
+<p align="center">
+  <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/5.jpg" width="900" title="hover text">
+</p>
 ## Reference
