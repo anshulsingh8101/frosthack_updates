@@ -33,8 +33,7 @@
 
 * Our cover-page
 <p align="center">
-  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/xgboost_1.png" width="900" title="hover text">
-  <img src="https://github.com/anshulsingh8101/Stock_prediction_from_news_headlines/blob/master/images/xg_boost_2.png" width="900" title="hover text">
+  <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/1.jpg" width="450" title="hover text">
 </p>
 
 
