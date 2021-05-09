@@ -22,12 +22,15 @@
 
 * Run the server `python app.py`
 
-## Dependencies
+## Dependencies and Algorithms Preferred
 
 * Flask
 * Bootstrap 4
 * Machine Learning Algorithm
 * Recommendation System
+  * Collaborative Filtering - Suggest recipes that other users similar to you also liked (Cosine Similarity)
+  * Content Based Filtering - Suggest recipes that are similar to recipes that you like (Cosine Similiarity)
+  * Matrix Factorization - Suggest recipes that you like, uncover latent factors, in a lower dimensional space (Singular Value Decomposition)
 
 ### OUR WEB PAGE SCREENSHOTS
 
@@ -60,4 +63,8 @@
    </p>
    </br>
 
-## Reference
+### References
+
+* https://github.com/maciejkula/spotlight
+* https://github.com/garrrychan/recipe_recommender_system
+* https://www.manning.com/books/practical-recommender-systems
