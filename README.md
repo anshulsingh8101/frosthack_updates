@@ -41,7 +41,7 @@
     <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/2.jpg" width="900" title="hover text">
   </p>
   </br>
-  * After Selecting, we submit, to get the responses.
+  * After Selecting, we press `Show me what to cook`, to get the responses.
   </br>
   <p align="center">
     <img src="https://github.com/anshulsingh8101/fdsfsfdsf/blob/main/Screenshots/3.jpg" width="900" title="hover text">
